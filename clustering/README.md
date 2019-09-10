@@ -13,7 +13,7 @@ This presentation described different approaches to data clustering, explained t
  <li>clustering_101_robust_train.ipynb - data preparation and training of k-medoid clusters</li>
  <li>clustering_101_robust_apply.ipynb - deployment and testing of k-medoid clustering process</li>
  <li>clustering_101_util.r - utility functions responsible for plotting of clustered data</li>
-</ul)
+</ul>
 
 ### Folders
 
