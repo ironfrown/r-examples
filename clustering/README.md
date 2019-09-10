@@ -23,5 +23,5 @@ This presentation described different approaches to data clustering, explained t
  <li>Models - models saved by the training process</li>
 </ul>
 
-<ul>
+***
 Jacob Cybulski, 10 Sept 2019
