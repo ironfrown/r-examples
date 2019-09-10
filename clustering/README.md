@@ -9,19 +9,19 @@ This presentation described different approaches to data clustering, explained t
 ### Files
 
 <ul>
- <li>**clustering_101_robust_split.ipynb** - splits the original data into training and testing partitions</li>
- <li>**clustering_101_robust_train.ipynb** - data preparation and training of k-medoid clusters</li>
- <li>**clustering_101_robust_apply.ipynb** - deployment and testing of k-medoid clustering process</li>
- <li>**clustering_101_util.r** - utility functions responsible for plotting of clustered data</li>
+ <li><b>clustering_101_robust_split.ipynb</b> - splits the original data into training and testing partitions</li>
+ <li><b>clustering_101_robust_train.ipynb</b> - data preparation and training of k-medoid clusters</li>
+ <li><b>clustering_101_robust_apply.ipynb</b> - deployment and testing of k-medoid clustering process</li>
+ <li><b>clustering_101_util.r</b> - utility functions responsible for plotting of clustered data</li>
 </ul>
 
 ### Folders
 
 <ul>
- <li>**Data** - data used in the notebooks, both original and partitions</li>
- <li>**Images** - images featured in notebooks</li>
- <li>**Models** - models saved by the training process</li>
+ <li><b>Data</b> - data used in the notebooks, both original and partitions</li>
+ <li><b>Images</b> - images featured in notebooks</li>
+ <li><b>Models</b> - models saved by the training process</li>
 </ul>
 
 ***
-*Jacob Cybulski, 10 Sept 2019*
+<i>Jacob Cybulski, 10 Sept 2019</i>
