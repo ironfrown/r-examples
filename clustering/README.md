@@ -2,7 +2,8 @@
 This repository has several examples of data clustering and segmentation analysis in R for Business. 
 
 ## k-Medoid clustering using PAM
-<i>The cut-down version of this example was presented by Jacob Cybulski at MelbURN Meetup on 9 Sept 2019
+<i>The cut-down version of this example was presented by Jacob Cybulski at MelbURN Meetup on 9 Sept 2019<br>
+ Also available as a <a href="https://www.youtube.com/watch?v=vxgz_q-BDhw&t=699s" target="blank">YouTube video</a>.
 
 This presentation described different approaches to data clustering, explained their aims, data preparation for cluster analysis, visualisation techniques for cluster diagnostics and for segmentation analysis, as well as cluster optimisation methods. The presentation focused on business applications for R practitioners.</i>
  
